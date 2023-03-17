@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqliteLearn", "SqliteLearn.csproj", "{9114CE1F-692E-441D-9A23-3E2E1F38089B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9114CE1F-692E-441D-9A23-3E2E1F38089B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9114CE1F-692E-441D-9A23-3E2E1F38089B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9114CE1F-692E-441D-9A23-3E2E1F38089B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9114CE1F-692E-441D-9A23-3E2E1F38089B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7242FC6E-98DB-492D-82BE-2114037FBA90}
+	EndGlobalSection
+EndGlobal
